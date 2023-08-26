@@ -1,8 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEO%20JANGGYOO&fontSize=90)
+✨ JangGyoo Dev Life
 
+😄 Who I am
+- SRE (Site Reliability Engineering) Developer.
+- working as a developer since 2018.
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+🔭 My Skills
+- Language (Python, Go)
+- Monitoring (Grafana, Prometheus)
+
+🌱 I’m currently learning
+- What SRE Is.
+  
 <!--
 **jooyg62/jooyg62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
