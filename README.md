@@ -1,14 +1,14 @@
 ### ✨ JangGyoo Dev Life
 
-😄 Who I am
+### 😄 Who I am
 - SRE (Site Reliability Engineering) Developer.
 - working as a developer since 2018.
 
-🔭 My Skills
+### 🔭 My Skills
 - Language (Python, Go)
 - Monitoring (Grafana, Prometheus)
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 - What SRE Is.
   
 <!--
