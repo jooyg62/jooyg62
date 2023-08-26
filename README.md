@@ -18,6 +18,7 @@
 
 ### 🌱 I’m currently learning
 - What SRE Is
+- golang
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyg62&show_icons=true&theme=dark)
 
