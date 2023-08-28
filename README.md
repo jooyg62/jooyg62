@@ -17,6 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyg62&layout=compact&theme=tokyonight)
 
 ### 🌱 I’m currently learning
+- Java Spring Framework
 - What SRE Is
 - golang
 
