@@ -8,7 +8,7 @@
 </a>
 
 ### 😄 Who I am
-- SRE (Site Reliability Engineering) Developer.
+- Python BackEnd Developer.
 - working as a developer since 2018.
 
 ### 🔭 My Skills
